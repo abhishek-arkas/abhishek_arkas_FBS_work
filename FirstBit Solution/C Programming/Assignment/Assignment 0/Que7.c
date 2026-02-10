@@ -1,3 +1,4 @@
+//conversion of minutes in hours and minutes
 void main(){
 	int minutes=100 ,hours,remainingminutes;
 	hours=minutes/60;
@@ -5,4 +6,5 @@ void main(){
 	printf("the total minutes is %d\n",minutes);
 	printf("hours=%d and remaining minutes=%d",hours,remainingminutes);
 	
+
 }
